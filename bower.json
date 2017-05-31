@@ -1,7 +1,7 @@
 {
   "name": "moment-element",
   "description": "Polymer element wrapper for the moment library",
-  "version": "4.5.0",
+  "version": "0.4.5",
   "authors": [
     "Abdón Rodríguez Davila <a@abdonrd.com>"
   ],
